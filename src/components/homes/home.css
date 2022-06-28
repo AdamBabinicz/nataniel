@@ -1,0 +1,176 @@
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  color: #fff;
+}
+.homeContainer {
+  position: relative;
+}
+.coverImage {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+}
+.coverImage img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.homeContainer .content {
+  padding: 100px;
+}
+.homeContainer h1 {
+  margin-top: 80px;
+  font-size: 90px;
+  text-transform: uppercase;
+  font-weight: 800;
+  background: url("../../../public/images/3.svg") repeat;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.21);
+}
+.coverImage::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 88;
+  background: linear-gradient(
+    to right bottom,
+    rgba(0, 110, 255, 0.4),
+    rgba(0, 110, 255, 0.3),
+    rgba(0, 110, 255, 0.2),
+    rgba(0, 110, 255, 0.1),
+    rgba(0, 110, 255, 0)
+  );
+}
+.homeContainer .rating {
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  width: max-content;
+}
+.rating .rate {
+}
+.rating svg {
+  color: orange;
+  margin-right: 5px;
+  font-size: 3rem;
+}
+.rating label svg {
+  margin: 0 20px;
+  font-size: 2rem;
+}
+.rating span {
+  /* background: #6c757d; */
+  padding: 5px;
+  color: #fff;
+  font-weight: bold;
+}
+.homeContainer .cast {
+  margin: 30px 0;
+}
+.cast h4 {
+  font-weight: 500;
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+.cast h4 span {
+  color: orange;
+}
+.playButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playButton .img {
+  position: relative;
+}
+.change {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.playButton img {
+  width: 90px;
+  height: 90px;
+  margin-right: 20px;
+  transition: 0.5s;
+}
+.playButton button:hover .change {
+  opacity: 1;
+}
+.playButton button {
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  background: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  transition: 0.5s;
+}
+.margin {
+  margin-top: 45%;
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    position: relative;
+    margin: 0;
+    height: auto;
+  }
+  .homeContainer .content {
+    padding: 1rem;
+    height: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .homeContainer h1 {
+    margin-top: 10px;
+    font-size: 60px;
+    text-align: center;
+  }
+  .homeContainer .rating {
+    margin: auto;
+  }
+  .coverImage img {
+    /* width: 100%;
+    height: 30rem;
+    object-fit: contain !important; */
+  }
+  .home .row {
+    width: 100%;
+  }
+  .home .playButton {
+    display: none;
+  }
+  .details {
+    width: 100%;
+    padding: 1rem;
+  }
+  .cast h4 {
+    font-size: 14px;
+  }
+  .margin {
+    margin-top: 0 !important;
+  }
+  .playButton {
+    display: none;
+  }
+}
