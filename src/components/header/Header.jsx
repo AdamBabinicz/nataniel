@@ -32,7 +32,7 @@ const Header = () => {
               <Link to="/kontakt">Kontakt</Link> */}
             </ul>
             <button className="toggle" onClick={() => setMobile(!Mobile)}>
-              {Mobile ? <FaBars /> : <FaTimes />}
+              {Mobile ? <FaTimes /> : <FaBars />}
             </button>
           </nav>
           <div className="account flexSB">
