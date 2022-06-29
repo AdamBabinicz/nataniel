@@ -25,6 +25,10 @@
   left: 0;
   bottom: 0;
 }
+.pop_up_content {
+  min-height: 100%;
+  background: red;
+}
 .pop_up_card {
   margin: auto;
   z-index: 1001;
@@ -33,7 +37,7 @@
 }
 .pop_up_card img {
   object-fit: cover;
-  min-height: 100%;
+  height: 100%;
   width: 30rem;
 }
 
