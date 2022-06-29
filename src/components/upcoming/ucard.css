@@ -32,7 +32,7 @@
   height: 100%;
 }
 .pop_up_card img {
-  object-fit: contain;
+  object-fit: cover;
   height: 100%;
   width: 30rem;
 }
