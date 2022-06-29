@@ -10,6 +10,7 @@
   .trending {
     position: relative;
     /* height: 60vh !important; */
+    height: auto !important;
     background: green;
   }
   .trending h1 {
@@ -18,7 +19,8 @@
   }
   .trending .coverImage img {
     width: 100vw;
-    height: 60vh !important;
+    min-height: 100%;
+    object-fit: cover;
   }
   /* .trending .content {
     flex-direction: column;
