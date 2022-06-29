@@ -152,6 +152,9 @@ p {
     justify-content: flex-end;
     text-align: center;
   }
+  .movieBox img {
+    min-height: 100%;
+  }
   .movieBox .text {
     padding: 0;
     margin-bottom: 1rem;
