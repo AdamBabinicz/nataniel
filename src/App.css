@@ -153,6 +153,7 @@ p {
     text-align: center;
   }
   .movieBox img {
+    background: green;
     min-height: 100%;
   }
   .movieBox .text {
