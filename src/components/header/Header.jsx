@@ -24,7 +24,7 @@ const Header = () => {
               onClick={() => setMobile(false)}
             >
               <Link to="/">Start</Link>
-              <img src="../images/upcome/1.png" alt="..." />
+              <img src="./images/upcome/1.png" alt="..." className="nat" />
               {/* <Link to="/series">Series</Link>
               <Link to="/movies">Movies</Link>
               <Link to="/pages">Pages</Link>

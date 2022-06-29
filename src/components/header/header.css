@@ -43,6 +43,9 @@ header button {
 .toggle {
   display: none;
 }
+nav .nat {
+  display: none;
+}
 
 @media only screen and (max-width: 768px) {
   header nav .flexSB {
@@ -61,6 +64,9 @@ header button {
     width: 70%;
     height: 100vh;
     z-index: 999;
+  }
+  nav .nat {
+    display: block;
   }
   header ul li {
     margin-top: 30px;
