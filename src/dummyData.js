@@ -263,4 +263,16 @@ export const recommended = [
     name: "Idzie lato",
     time: "20 : 33",
   },
+  {
+    id: 10,
+    cover: "../images/upcome/19.jpg",
+    name: "Swiat jest ciekawy",
+    time: "20 : 33",
+  },
+  {
+    id: 9,
+    cover: "../images/upcome/20.jpg",
+    name: "Jestem tutaj",
+    time: "20 : 33",
+  },
 ];
