@@ -26,28 +26,28 @@ const Footer = () => {
             <h3>Znajdziesz mnie</h3>
             <div className="soc">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/NoworodekNiemowle"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaFacebookF />
               </a>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/r_a_ziemkiewicz/status/1204720073325400065"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaTwitter />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/explore/tags/noworodek"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaInstagram />
               </a>
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/watch?v=XEHLreWatoo"
                 target="_blank"
                 rel="noopener noreferrer"
               >
