@@ -9,9 +9,7 @@
 @media only screen and (max-width: 768px) {
   .trending {
     position: relative;
-    /* height: 60vh !important; */
     height: auto !important;
-    background: green;
   }
   .trending h1 {
     font-size: 50px;

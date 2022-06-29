@@ -54,11 +54,11 @@ header button {
   .navMenu-list {
     display: flex;
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     background: #006effe6;
-    width: 50%;
+    width: 70%;
     height: 100vh;
     z-index: 999;
   }

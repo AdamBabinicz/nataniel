@@ -3,6 +3,7 @@ import "./header.css";
 import { Link } from "react-router-dom";
 import { FaTimes, FaBars } from "react-icons/fa";
 import Modal from "../Portal/Modal";
+// import img from "../public/images/upcome/1.png";
 
 const Header = () => {
   const [Mobile, setMobile] = useState(false);
@@ -23,11 +24,12 @@ const Header = () => {
               onClick={() => setMobile(false)}
             >
               <Link to="/">Start</Link>
+              <img src="../images/upcome/1.png" alt="..." />
               {/* <Link to="/series">Series</Link>
               <Link to="/movies">Movies</Link>
               <Link to="/pages">Pages</Link>
-              <Link to="/pricing">Pricing</Link> */}
-              <Link to="/kontakt">Kontakt</Link>
+              <Link to="/pricing">Pricing</Link>
+              <Link to="/kontakt">Kontakt</Link> */}
             </ul>
             <button className="toggle" onClick={() => setMobile(!Mobile)}>
               {Mobile ? <FaBars /> : <FaTimes />}
