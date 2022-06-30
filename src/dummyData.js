@@ -201,7 +201,8 @@ export const recommended = [
     id: 1,
     cover: "../images/6.jpg",
     name: "Już jestem w ubranku",
-    time: "10 : 51",
+    time: "15 : 14",
+    date: "23.06.2022",
   },
   {
     id: 2,
