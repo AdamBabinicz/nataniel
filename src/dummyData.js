@@ -290,9 +290,21 @@ export const recommended = [
     time: "19 : 38",
   },
   {
-    id: 15,
+    id: 16,
     cover: "../images/upcome/21.jpg",
     name: "W body",
     time: "19 : 06",
+  },
+  {
+    id: 17,
+    cover: "../images/upcome/22.jpg",
+    name: "W łóżeczku",
+    time: "20 : 26",
+  },
+  {
+    id: 18,
+    cover: "../images/upcome/23.jpg",
+    name: "Blisko mamy i taty",
+    time: "20 : 26",
   },
 ];
