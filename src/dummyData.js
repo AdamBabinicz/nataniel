@@ -52,7 +52,7 @@ export const homeData = [
     genres: "Adventures",
     tags: " Nathaniel Hawthorne – pisarz romantyczny, uważany za jednego z największych i najbardziej wpływowych twórców literatury amerykańskiej XIX wieku.",
     cover: "../images/4.jpg",
-    video: "../video/3.mp4",
+    video: "../video/9.mp4",
     date: "13.06.2022",
     nameL: " Natanaele.",
     lang: " po włosku",
@@ -306,5 +306,11 @@ export const recommended = [
     cover: "../images/upcome/23.jpg",
     name: "Blisko mamy i taty",
     time: "20 : 26",
+  },
+  {
+    id: 18,
+    cover: "../images/upcome/24.jpg",
+    name: "Z elektronicznym misiem",
+    time: "10 : 12",
   },
 ];
