@@ -311,6 +311,12 @@ export const recommended = [
     id: 18,
     cover: "../images/upcome/24.jpg",
     name: "Z elektronicznym misiem",
-    time: "10 : 12",
+    time: "17 : 56",
+  },
+  {
+    id: 18,
+    cover: "../images/upcome/25.jpg",
+    name: "Miś czuwa, gdy ja śpię",
+    time: "14 : 44",
   },
 ];
