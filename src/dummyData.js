@@ -308,15 +308,33 @@ export const recommended = [
     time: "20 : 26",
   },
   {
-    id: 18,
+    id: 19,
     cover: "../images/upcome/24.jpg",
     name: "Z elektronicznym misiem",
     time: "17 : 56",
   },
   {
-    id: 18,
+    id: 21,
     cover: "../images/upcome/25.jpg",
     name: "Miś czuwa, gdy ja śpię",
     time: "14 : 44",
+  },
+  {
+    id: 22,
+    cover: "../images/upcome/28.jpg",
+    name: "Trochę na boczku",
+    time: "17 : 07",
+  },
+  {
+    id: 23,
+    cover: "../images/upcome/26.jpg",
+    name: "Rozglądam się po pokoju",
+    time: "15 : 07",
+  },
+  {
+    id: 24,
+    cover: "../images/upcome/27.jpg",
+    name: "Nie zawsze tylko śpię",
+    time: "15 : 07",
   },
 ];
