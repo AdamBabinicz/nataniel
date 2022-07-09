@@ -337,4 +337,22 @@ export const recommended = [
     name: "Nie zawsze tylko śpię",
     time: "15 : 07",
   },
+  {
+    id: 25,
+    cover: "../images/upcome/28.jpg",
+    name: "Bez smoczka nie dam rady",
+    time: "15 : 07",
+  },
+  {
+    id: 26,
+    cover: "../images/upcome/29.jpg",
+    name: "Na pajacyka",
+    time: "15 : 07",
+  },
+  {
+    id: 27,
+    cover: "../images/upcome/30.jpg",
+    name: "Znowu zmorzył mnie sen",
+    time: "15 : 07",
+  },
 ];
