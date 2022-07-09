@@ -361,4 +361,10 @@ export const recommended = [
     name: "Bez smoczka nie dam rady",
     time: "19 : 08",
   },
+  {
+    id: 28,
+    cover: "../images/upcome/36.jpg",
+    name: "Nie ma to jak dobrze się wyspać",
+    time: "20 : 38",
+  },
 ];
