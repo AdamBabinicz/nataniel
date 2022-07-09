@@ -341,18 +341,18 @@ export const recommended = [
     id: 25,
     cover: "../images/upcome/28.jpg",
     name: "Bez smoczka nie dam rady",
-    time: "15 : 07",
+    time: "20 : 15",
   },
   {
     id: 26,
     cover: "../images/upcome/29.jpg",
     name: "Na pajacyka",
-    time: "15 : 07",
+    time: "10 : 23",
   },
   {
     id: 27,
     cover: "../images/upcome/30.jpg",
     name: "Znowu zmorzył mnie sen",
-    time: "15 : 07",
+    time: "10 : 21",
   },
 ];
