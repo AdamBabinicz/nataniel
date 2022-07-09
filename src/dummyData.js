@@ -339,18 +339,12 @@ export const recommended = [
   },
   {
     id: 25,
-    cover: "../images/upcome/28.jpg",
-    name: "Bez smoczka nie dam rady",
-    time: "20 : 15",
-  },
-  {
-    id: 26,
     cover: "../images/upcome/29.jpg",
     name: "Na pajacyka",
     time: "10 : 23",
   },
   {
-    id: 27,
+    id: 26,
     cover: "../images/upcome/30.jpg",
     name: "Znowu zmorzył mnie sen",
     time: "10 : 21",
