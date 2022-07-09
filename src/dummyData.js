@@ -349,4 +349,16 @@ export const recommended = [
     name: "Znowu zmorzył mnie sen",
     time: "10 : 21",
   },
+  {
+    id: 27,
+    cover: "../images/upcome/31.jpg",
+    name: "Teraz na drugim boczku",
+    time: "19 : 37",
+  },
+  {
+    id: 28,
+    cover: "../images/upcome/32.jpg",
+    name: "Bez smoczka nie dam rady",
+    time: "19 : 08",
+  },
 ];
