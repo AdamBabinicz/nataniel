@@ -391,4 +391,10 @@ export const recommended = [
     name: "Lubię smonia",
     time: "20 : 38",
   },
+  {
+    id: 33,
+    cover: "../images/upcome/41.jpg",
+    name: "W podróży autem",
+    time: "20 : 38",
+  },
 ];
