@@ -367,4 +367,28 @@ export const recommended = [
     name: "Nie ma to jak dobrze się wyspać",
     time: "20 : 38",
   },
+  {
+    id: 29,
+    cover: "../images/upcome/37.jpg",
+    name: "Mam już 1-szy miesiąc",
+    time: "20 : 38",
+  },
+  {
+    id: 30,
+    cover: "../images/upcome/38.jpg",
+    name: "Zafundowałem sobie nową fryzurę",
+    time: "20 : 38",
+  },
+  {
+    id: 31,
+    cover: "../images/upcome/39.jpg",
+    name: "Na klacie u taty",
+    time: "20 : 38",
+  },
+  {
+    id: 32,
+    cover: "../images/upcome/40.jpg",
+    name: "Lubię smonia",
+    time: "20 : 38",
+  },
 ];
