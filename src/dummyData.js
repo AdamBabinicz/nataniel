@@ -458,4 +458,46 @@ export const recommended = [
     name: "Może jednak bym coś poczytał",
     time: "13 : 43",
   },
+  {
+    id: 43,
+    cover: "../images/upcome/54.jpg",
+    name: "Najwygodniej w body",
+    time: "17 : 24",
+  },
+  {
+    id: 44,
+    cover: "../images/upcome/56.jpg",
+    name: "Mama nie żałuje mleczka",
+    time: "08 : 50",
+  },
+  {
+    id: 45,
+    cover: "../images/upcome/55.jpg",
+    name: "Wszystko bym oddał za mleczko",
+    time: "08 : 53",
+  },
+  {
+    id: 46,
+    cover: "../images/upcome/57.jpg",
+    name: "Pępuszek - kwiatuszek",
+    time: "13 : 31",
+  },
+  {
+    id: 47,
+    cover: "../images/upcome/59.jpg",
+    name: "Jestem bardzo zadowolony",
+    time: "12 : 21",
+  },
+  {
+    id: 48,
+    cover: "../images/upcome/58.jpg",
+    name: "Cała przyjemność po mojej stronie",
+    time: "12 : 22",
+  },
+  {
+    id: 49,
+    cover: "../images/upcome/60.jpg",
+    name: "Mój pierwszy dyplom",
+    time: "14 : 21",
+  },
 ];
