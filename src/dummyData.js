@@ -500,4 +500,40 @@ export const recommended = [
     name: "Mój pierwszy dyplom",
     time: "14 : 21",
   },
+  {
+    id: 50,
+    cover: "../images/upcome/61.jpg",
+    name: "Nie wiem, czy lubię tego misia",
+    time: "09 : 35",
+  },
+  {
+    id: 51,
+    cover: "../images/upcome/62.jpg",
+    name: "W końcu mamy sierpień",
+    time: "09 : 35",
+  },
+  {
+    id: 52,
+    cover: "../images/upcome/63.jpg",
+    name: "Prawdziwy śmieszek ze mnie",
+    time: "11 : 11",
+  },
+  {
+    id: 53,
+    cover: "../images/upcome/64.jpg",
+    name: "Przed domem, na tarasie",
+    time: "10 : 28",
+  },
+  {
+    id: 54,
+    cover: "../images/upcome/65.jpg",
+    name: "Sen mnie zmorzył",
+    time: "15 : 12",
+  },
+  {
+    id: 55,
+    cover: "../images/upcome/66.jpg",
+    name: "Z rączkami pod poduszką",
+    time: "20 : 23",
+  },
 ];
