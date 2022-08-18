@@ -536,4 +536,46 @@ export const recommended = [
     name: "Z rączkami pod poduszką",
     time: "20 : 23",
   },
+  {
+    id: 56,
+    cover: "../images/upcome/67.jpg",
+    name: "Słucham z zainteresowaniem",
+    time: "10 : 29",
+  },
+  {
+    id: 57,
+    cover: "../images/upcome/68.jpg",
+    name: "Prezent od Gabrysi i jej rodziców",
+    time: "10 : 20",
+  },
+  {
+    id: 58,
+    cover: "../images/upcome/69.jpg",
+    name: "Ktoś właśnie opowiedział dowcip",
+    time: "10 : 28",
+  },
+  {
+    id: 59,
+    cover: "../images/upcome/70.jpg",
+    name: "Ale nie wiem, czy się śmiać",
+    time: "10 : 28",
+  },
+  {
+    id: 60,
+    cover: "../images/upcome/71.jpg",
+    name: "Przyśnił mi się Kubuś Puchatek",
+    time: "14 : 16",
+  },
+  {
+    id: 61,
+    cover: "../images/upcome/72.jpg",
+    name: "Sierpniowa drzemka po południu",
+    time: "14 : 16",
+  },
+  {
+    id: 62,
+    cover: "../images/upcome/73.jpg",
+    name: "Boks to mój żywioł",
+    time: "14 : 16",
+  },
 ];
