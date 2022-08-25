@@ -638,4 +638,28 @@ export const recommended = [
     name: "Zmęczony walką z misiem zasypiam",
     time: "10 : 52",
   },
+  {
+    id: 73,
+    cover: "../images/upcome/84.jpg",
+    name: "Przesiadłem się z gondoli na spacerówkę",
+    time: "12 : 30",
+  },
+  {
+    id: 74,
+    cover: "../images/upcome/85.jpg",
+    name: "Ze spacerówki więcej widać",
+    time: "12 : 30",
+  },
+  {
+    id: 75,
+    cover: "../images/upcome/86.jpg",
+    name: "I nie muszę już tylko leżeć",
+    time: "12 : 30",
+  },
+  {
+    id: 76,
+    cover: "../images/upcome/87.jpg",
+    name: "Jest mi o wiele wygodniej",
+    time: "12 : 30",
+  },
 ];
