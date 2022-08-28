@@ -662,4 +662,22 @@ export const recommended = [
     name: "Jest mi o wiele wygodniej",
     time: "12 : 30",
   },
+  {
+    id: 78,
+    cover: "../images/upcome/88.jpg",
+    name: "Kto powiedział, że nie umiem się czołgać?",
+    time: "14 : 57",
+  },
+  {
+    id: 79,
+    cover: "../images/upcome/89.jpg",
+    name: "Ta perspektywa przypadła mi do gustu",
+    time: "14 : 57",
+  },
+  {
+    id: 80,
+    cover: "../images/upcome/90.jpg",
+    name: "Idzie mi coraz lepiej",
+    time: "14 : 57",
+  },
 ];
