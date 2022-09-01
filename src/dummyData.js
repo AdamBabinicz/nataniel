@@ -680,4 +680,22 @@ export const recommended = [
     name: "Idzie mi coraz lepiej",
     time: "14 : 57",
   },
+  {
+    id: 81,
+    cover: "../images/upcome/91.jpg",
+    name: "Wszystko pod kontrolą",
+    time: "14 : 57",
+  },
+  {
+    id: 82,
+    cover: "../images/upcome/92.jpg",
+    name: "Gdzie jest moja beczułka z miodzikiem?",
+    time: "14 : 57",
+  },
+  {
+    id: 83,
+    cover: "../images/upcome/93.jpg",
+    name: "Widzę ją - stoi na stole",
+    time: "14 : 57",
+  },
 ];
