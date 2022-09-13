@@ -890,4 +890,16 @@ export const recommended = [
     name: "Dlaczego tu nie ma liter?",
     time: "12 : 16",
   },
+  {
+    id: 116,
+    cover: "../images/upcome/127.jpg",
+    name: "Ma sie tych przyjaciół",
+    time: "12 : 54",
+  },
+  {
+    id: 117,
+    cover: "../images/upcome/128.jpg",
+    name: "Po raz pierwszy zasnąłem w łóżeczku",
+    time: "09 : 28",
+  },
 ];
