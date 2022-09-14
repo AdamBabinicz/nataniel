@@ -914,4 +914,34 @@ export const recommended = [
     name: "Świat jest piękny!",
     time: "10 : 03",
   },
+  {
+    id: 120,
+    cover: "../images/upcome/131.jpg",
+    name: "Szukam ząbków",
+    time: "10 : 55",
+  },
+  {
+    id: 121,
+    cover: "../images/upcome/132.jpg",
+    name: "Gdzie one są?",
+    time: "10 : 55",
+  },
+  {
+    id: 122,
+    cover: "../images/upcome/133.jpg",
+    name: "Smoczka też można gryźć",
+    time: "11 : 37",
+  },
+  {
+    id: 123,
+    cover: "../images/upcome/134.jpg",
+    name: "Przerwa na uśmiech",
+    time: "11 : 37",
+  },
+  {
+    id: 124,
+    cover: "../images/upcome/135.jpg",
+    name: "Chwila zadumy",
+    time: "11 : 37",
+  },
 ];
