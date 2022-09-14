@@ -902,4 +902,16 @@ export const recommended = [
     name: "Po raz pierwszy zasnąłem w łóżeczku",
     time: "09 : 28",
   },
+  {
+    id: 118,
+    cover: "../images/upcome/129.jpg",
+    name: "Po dobrze przespanej nocy",
+    time: "10 : 03",
+  },
+  {
+    id: 119,
+    cover: "../images/upcome/130.jpg",
+    name: "Świat jest piękny!",
+    time: "10 : 03",
+  },
 ];
