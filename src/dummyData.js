@@ -947,7 +947,7 @@ export const recommended = [
   {
     id: 125,
     cover: "../images/upcome/136.jpg",
-    name: "Ale o co chodzi",
+    name: "Ale o co chodzi?",
     time: "15 : 29",
   },
   {
