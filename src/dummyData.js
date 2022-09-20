@@ -944,4 +944,34 @@ export const recommended = [
     name: "Chwila zadumy",
     time: "11 : 37",
   },
+  {
+    id: 125,
+    cover: "../images/upcome/136.jpg",
+    name: "Ale o co chodzi",
+    time: "15 : 29",
+  },
+  {
+    id: 126,
+    cover: "../images/upcome/137.jpg",
+    name: "Świat jest dziwny",
+    time: "15 : 28",
+  },
+  {
+    id: 127,
+    cover: "../images/upcome/138.jpg",
+    name: "Małe przytulanko",
+    time: "16 : 22",
+  },
+  {
+    id: 128,
+    cover: "../images/upcome/139.jpg",
+    name: "Czasami gdzieś się wybieram",
+    time: "10 : 01",
+  },
+  {
+    id: 129,
+    cover: "../images/upcome/140.jpg",
+    name: "Moje wdzianko wyjściowe",
+    time: "10 : 01",
+  },
 ];
